@@ -5,8 +5,10 @@
 	post:录入/激活特殊假期，婚嫁、产假、陪产,etc
 /leave/remain
 	get:查看剩余假期
+	Allen
 /leave/details
 	get:查看全部请假请求
+	William
 /leave/update
 	put:更新请假信息，审批/修改/关闭请假工作流
 
