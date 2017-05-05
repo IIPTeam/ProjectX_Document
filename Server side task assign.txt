@@ -1,6 +1,7 @@
 =====leave========
 /leave/submit
 	post:申请休假
+	brady
 /leave/generate
 	post:录入/激活特殊假期，婚嫁、产假、陪产,etc
 /leave/remain
