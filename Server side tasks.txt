@@ -1,0 +1,49 @@
+=====leave========
+/leave/submit
+	post:申请休假
+	Brady
+	70% done
+	10% bean定义
+	10% 内部集成测试
+	10% Field mapping with F/E
+/leave/generate
+	post:录入/激活特殊假期，婚嫁、产假、陪产
+/leave/remain
+	get:查看剩余假期
+	Allen
+	70% done
+	10% bean定义
+	10% 内部集成测试
+	10% Field mapping with F/E
+/leave/details
+	get:查看全部请假请求
+	William
+	70% done
+	10% bean定义
+	10% 内部集成测试
+	10% Field mapping with F/E
+/leave/update
+	put:更新请假信息，审批/修改/关闭请假工作流
+	Migan
+	10% 工程建立
+======OT==========
+/ot/submit
+	post:申请加班
+	Phony
+	50% done
+	30% bean定义
+	10% 内部集成测试
+	10% Field mapping with F/E
+/ot/list
+	get:查看时间范围内加班记录
+	Ryan
+/ot/update
+	put:更新加班请求信息，审批/关闭加班工作流
+	Mark
+	50% done
+	30% bean定义
+	10% 内部集成测试
+	10% Field mapping with F/E
+/ot/repayment
+	put:换钱、换休
+        Scott
